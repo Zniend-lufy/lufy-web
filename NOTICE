@@ -1,7 +1,13 @@
 Lufy (sitio web) — Zniend <zniend.lufy@proton.me>
 
 Código: GNU AGPL-3.0 (ver LICENSE).
-Datos y textos: CC BY 4.0 (ver LICENSE-DATOS-CC-BY-4.0.txt). Cita: "Lufy / Zniend".
+Datos y textos de la web: CC BY 4.0 (ver LICENSE-DATOS-CC-BY-4.0.txt). Cita: "Lufy / Zniend".
+
+Libros de Lufy: desde el 17 de octubre de 2026, el texto de los libros de Lufy
+(por ejemplo, «El verdadero poder político») tiene todos los derechos reservados
+(© Zniend). No está incluido en la licencia CC BY 4.0 ni en la AGPL-3.0.
+El código (AGPL-3.0) y los datos (CC BY 4.0) siguen igual.
+Nota: la situación de las copias ya distribuidas la revisa un abogado.
 
 Fuentes de datos: documentos públicos de instituciones del Ecuador (CNE, INEC y otras),
 citados en cada página con su enlace y huella SHA256 cuando existe copia archivada.

@@ -23,4 +23,6 @@ Reglas de contenido, con más detalle: `historia.html`.
 © 2026 Lufy.
 
 ## Licencias
-Código del sitio (HTML/CSS/JS): AGPL-3.0 (`LICENSE`). Textos y datos: CC BY 4.0 (`LICENSE-DATOS-CC-BY-4.0.txt`).
+Código del sitio (HTML/CSS/JS): AGPL-3.0 (`LICENSE`). Textos y datos de la web: CC BY 4.0 (`LICENSE-DATOS-CC-BY-4.0.txt`).
+
+**Libros:** desde el 17 de octubre de 2026, el texto de los libros de Lufy (por ejemplo, «El verdadero poder político») tiene todos los derechos reservados (© Zniend) y no está cubierto por CC BY 4.0 ni por AGPL-3.0. El código y los datos siguen con las mismas licencias. La situación de las copias ya distribuidas la revisa un abogado.
